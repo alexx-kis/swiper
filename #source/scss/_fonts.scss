@@ -1,0 +1,34 @@
+/*==================================== FONTS ====================================*/
+/*==================================== FONTS ====================================*/
+
+@font-face {
+	font-family: 'CamingoCode';
+	src: url('../fonts/camingocode/CamingoCode-Regular.otf') format('otf'),
+		 url('../fonts/camingocode/CamingoCode-Regular.woff') format('woff'),
+		 url('../fonts/camingocode/CamingoCode-Regular.woff2') format('woff2'),
+		 url('../fonts/camingocode/CamingoCode-Regular.ttf') format('truetype'),
+		 url('../fonts/camingocode/CamingoCode-Regular.svg#CamingoCode') format('svg');
+	font-style: normal;
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: 'CamingoCode';
+	src: url('../fonts/camingocode/CamingoCode-Bold.otf') format('otf'),
+	url('../fonts/camingocode/CamingoCode-Bold.woff') format('woff'),
+	url('../fonts/camingocode/CamingoCode-Bold.woff2') format('woff2'),
+	url('../fonts/camingocode/CamingoCode-Bold.ttf') format('truetype'),
+	url('../fonts/camingocode/CamingoCode-Bold.svg#CamingoCode') format('svg');
+	font-style: normal;
+	font-weight: 700;
+}
+@font-face {
+	font-family: 'CamingoCode';
+	src: url('../fonts/camingocode/CamingoCode-BoldItalic.otf') format('otf'),
+		 url('../fonts/camingocode/CamingoCode-BoldItalic.woff') format('woff'),
+		 url('../fonts/camingocode/CamingoCode-BoldItalic.woff2') format('woff2'),
+		 url('../fonts/camingocode/CamingoCode-BoldItalic.ttf') format('truetype'),
+		 url('../fonts/camingocode/CamingoCode-BoldItalic.svg#CamingoCode') format('svg');
+	font-style: italic;
+	font-weight: 700;
+}
